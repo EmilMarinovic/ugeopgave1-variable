@@ -117,7 +117,7 @@ public class Ugeopgave1 {
         int remainingCount = 15;
         double discountPercent = 10.0;
         String products = "Electronics";
-         */
+        */
 
         //Opgave 12
         /*
@@ -126,7 +126,7 @@ public class Ugeopgave1 {
         int homeworkScore = 92;
         double averageScore = 88.5;
         boolean passedCourse = true;
-         */
+        */
 
         //Opgave 13
         /*
@@ -159,6 +159,7 @@ public class Ugeopgave1 {
         boolean isBestseller = true;
         double rating = 2.0;
          */
+
     }
 }
 
