@@ -153,13 +153,13 @@ public class Ugeopgave1 {
         String author = "H.C. Andersen";
         String isbn = "978-3-16-148410-0";
         int bookPages = 352;
-        boolean inAvailable = true;
+        boolean isAvailable = true;
         String borrower = "Jens";
+        String dueDate = "3 days";
         int dateFee = 10;
         boolean isBestseller = true;
         double rating = 2.0;
          */
-
     }
 }
 
